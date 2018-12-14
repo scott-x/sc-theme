@@ -1,0 +1,26 @@
+{
+    "name": "sc-theme",
+    "description": "A ghost theme",
+    "demo": "",
+    "version": "2.7.1",
+    "version": "0.5.0",
+    "engines": {
+        "ghost": ">=2.0.0"
+    },
+    "screenshots": {
+        "desktop": "",
+        "mobile": ""
+    },
+    "license": "MIT",
+    "author": {
+        "email": "mbp98k@gmail.com",
+        "name":"Scott Xiong"
+    },
+    "config": {
+        "posts_per_page": 10
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:scott-x/sc-theme.git"
+    },
+}
